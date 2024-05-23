@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">30 Days Of Fitness</string>
+    <string name="day">Day %d</string>
+    <string name="day_one_title">Leg Day</string>
+    <string name="day_two_title">Stretch Day</string>
+    <string name="day_three_title">Cardio</string>
+    <string name="day_four_title">Sit Up</string>
+    <string name="day_five_title">Core Exercise</string>
+    <string name="day_six_title">Planks</string>
+    <string name="day_one_desc">Leg workouts can be a full-body workout, working your legs, hips, glutes, core, and even your arms if you\'re holding weights. Leg workouts also teach you to improve stamina, power output, explosiveness, and mobility. Strong legs can help you in your day-to-day life and can help you to improve movement and performance.</string>
+    <string name="day_two_desc">Stretching is a physical exercise that requires putting a body part in a certain position that\'ll serve in the lengthening and elongation of the muscle or muscle group and thus enhance its flexibility and elasticity. Effects of Stretching include improved flexibility and delayed impaired mobility associated with aging.</string>
+    <string name="day_three_desc">Cardio\'s role in helping you shed pounds is burning calories. The more you exercise, the more calories you\'ll burn. If you\'re trying to lose weight, you should aim for doing cardio at least five days per week for a total of at least 250 minutes (4 hours, 10 minutes) each week.</string>
+    <string name="day_four_desc">Situps are classic abdominal exercises done by lying on your back and lifting your torso. They use your body weight to strengthen and tone the core-stabilizing abdominal muscles. Situps work the rectus abdominis, transverse abdominis, and obliques in addition to your hip flexors, chest, and neck.</string>
+    <string name="day_five_desc">Any exercise that involves the use of your stomach muscles and back muscles in a coordinated way counts as a core exercise. For example, using free weights while keeping your core stable trains and strengthens many of your muscles, including your core muscles. Classic core exercises stabilize and strengthen your core.</string>
+    <string name="day_six_desc">Lying on the ground with the elbows in line with the shoulder and the feet shoulder width apart, push your body up bearing the weight on the forearms and feet, keeping your body straight.</string>
 </resources>
